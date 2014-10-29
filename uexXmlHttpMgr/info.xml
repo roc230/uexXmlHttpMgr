@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin uexName="uexXmlHttpMgr" version="3.0.1" build = "1">
+        <info>1:修复增加了对重定向url的处理</info>
+        <build>0:跨域异步请求功能插件</build>
+	</plugin>
+</uexplugins>
